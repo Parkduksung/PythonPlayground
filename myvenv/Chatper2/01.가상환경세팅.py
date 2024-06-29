@@ -1,1 +1,1 @@
-print("환경세팅!")
+print("CommitTest")
